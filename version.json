@@ -1,11 +1,11 @@
 {
-  "version": "2.7.1",
-  "versionCode": 16,
-  "apk": "https://github.com/salman-codeart/Salat-app/releases/latest/download/Salat-salat-2.7.1.apk",
-  "size": "৪.১ MB",
+  "version": "2.8",
+  "versionCode": 17,
+  "apk": "https://github.com/salman-codeart/Salat-app/releases/latest/download/Salat-salat-2.8.apk",
+  "size": "৪.২ MB",
   "notes": [
-    "অ্যাপ আইকনের কোণ কাটা সমস্যা ঠিক",
-    "সংস্করণ নম্বর এখন সব জায়গায় v2.7",
-    "নতুন রঙ — Serene Blues & Tranquil Greens"
+    "আপডেট ও সেটিংস এখন আলাদা — টপ-রাইট ⚙ আইকনে সব একসাথে",
+    "ভাষা, ডার্ক মোড, বাংলা সংখ্যা, নোটিফিকেশন এখন সেটিংস পপ-আপে",
+    "আইকনের কোণ কাটা সমস্যা ঠিক হয়েছে"
   ]
 }
