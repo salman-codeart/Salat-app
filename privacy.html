@@ -27,7 +27,7 @@ footer{margin-top:40px;font-size:.85rem;color:#5d7168}
 <body><main>
 <span class="tag">Salat-সালাত · bd.salat.app</span>
 <h1>Privacy Policy</h1>
-<p style="color:#5d7168">Last updated: 30 October 2026</p>
+<p style="color:#5d7168">Last updated: 1 November 2026</p>
 
 <div class="card note">
   <strong>Short version:</strong> this app collects nothing. No accounts, no analytics,
@@ -54,8 +54,13 @@ Granting location permission is optional — you can always pick a district from
 </ul>
 
 <h2>4. Internet</h2>
-<p>The app is fully offline. Prayer times, the Hijri date, the qibla bearing and the Ramadan
+<p>The app works fully offline. Prayer times, the Hijri date, the qibla bearing and the Ramadan
 calendar are calculated on your device. No prayer-time or location data is downloaded or uploaded.</p>
+<p>Since version 2.4 the app makes <strong>one optional request</strong>: when you open it, it downloads a
+small public <code>version.json</code> file from the project’s GitHub page to check whether a newer
+version exists. That request contains no personal data — only the file address, the same way any web
+page is fetched. Nothing about you, your location, your prayers or your usage is included. If you are
+offline the request simply fails and the app continues offline as usual.</p>
 
 <h2>5. Notifications and alarms</h2>
 <p>Waqt reminders use Android’s AlarmManager and are scheduled on the device. You can turn them off
