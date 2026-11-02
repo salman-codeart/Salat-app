@@ -1,11 +1,11 @@
 {
-  "version": "2.6",
-  "versionCode": 15,
-  "apk": "https://github.com/your-username/salat-app/releases/latest/download/Salat-salat-2.6.apk",
+  "version": "2.7",
+  "versionCode": 16,
+  "apk": "https://github.com/your-username/salat-app/releases/latest/download/Salat-salat-2.7.apk",
   "size": "৪.১ MB",
   "notes": [
-    "নতুন সংস্করণ এসেছে — বাটনে চাপ দিলে সরাসরি APK নামবে",
-    "আপডেট করলে ট্র্যাকার, কাজা ও সেটিংস ঠিক থাকবে",
-    "পুরোনো অ্যাপ মুছতে হবে না"
+    "অ্যাপ আইকনের কোণ কাটা সমস্যা ঠিক",
+    "সংস্করণ নম্বর এখন সব জায়গায় v2.7",
+    "নতুন রঙ — Serene Blues & Tranquil Greens"
   ]
 }
